@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElizabethBeaton
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on exciting projects!
 - 📫 How to reach me: email - Elizabethbeaton23@outlook.com
 
